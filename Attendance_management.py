@@ -1,6 +1,6 @@
 USER_DATABASE_FILE = "user_data.txt"
 ATTENDANCE_RECORDS_FILE = "attendance_records.txt"
-MONTHLY_REPORT_FILE = "monthly_attendance_report.txt"
+MONTHLY_REPORT_FILE = "monthly_attendance_records.txt"
 
 user_database = {"saksham":"pareek"}
 student_database = {}
